@@ -31,7 +31,7 @@
             <td>${user.email}</td>
             <td>
                 <input type="button" value="Update"
-                onclick="window.location.href = '${updateButton}'"/>
+                       onclick="window.location.href = '${updateButton}'"/>
             </td>
         </tr>
 
@@ -41,7 +41,7 @@
 <br>
 
 <input type="submit" value="Add"
-onclick="window.location.href = 'new'">
+       onclick="window.location.href = 'new'">
 
 </body>
 </html>
